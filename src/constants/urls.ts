@@ -1,0 +1,1 @@
+export const UPLOAD_IMAGE_URL ='https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/e-commerce/uploadArea.png';
